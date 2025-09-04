@@ -58,5 +58,11 @@ The project is abandoned because:
   I almost smashed a wall over pmeflags. I will never forget pme**F**lags for the rest of my life.
 [You shouldof known to check the url for the actual variable name! :grinning:](https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/midi_scripting.htm#pmeFlags)
 
+## License Note
+This codebase is GPL3 for 2 reasons:
+  - If you write any Fl Studio device script, you will have to copy paste it into the fl data folder. So your source will be visible anyways. Indeed, the best way to learn some tricks is to look at the official controller scripts made by programmers who work at the device's company(they had the midi signal info which you as a user have to manually find).
+  - I don't want to in any way support another video on youtube trying to sell fl studio scripts. If you make a script and use it for youself you have all the freedom, keep it private or share it. Don't try to hustle your fellow music producers.
+
+
 
 
